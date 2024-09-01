@@ -1,0 +1,1036 @@
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"UNKNOWN","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697454}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"UNKNOWN","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697454}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697454}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697454}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697454}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697454}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697459}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697459}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697459}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697459}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697459}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697459}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697464}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697464}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697464}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697464}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697464}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697464}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697470}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697470}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697470}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697470}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697470}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697470}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697475}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697475}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697475}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697475}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697475}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697475}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697481}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697481}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697481}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697481}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697481}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697481}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697486}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697486}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697486}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697486}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697486}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697486}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697491}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697491}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697491}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697491}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697491}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697491}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697497}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697497}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697497}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697497}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697497}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697497}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697502}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697502}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697502}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697502}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697502}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697502}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697507}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697507}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697507}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697507}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697507}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697507}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697513}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697513}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697513}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697513}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697513}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697513}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697518}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697518}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697518}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697518}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697518}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697518}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697523}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697523}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697523}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697523}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697523}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697523}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697529}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697529}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697529}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697529}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697529}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697529}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697534}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697534}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697534}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697534}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697534}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697534}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697539}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697539}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697539}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697539}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697539}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697539}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697545}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697545}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697545}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697545}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697545}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697545}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697550}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697550}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697550}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697550}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697550}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697550}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697556}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697556}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697556}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697556}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697556}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697556}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697561}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697561}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697561}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697561}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697561}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697561}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697566}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697566}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697566}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697566}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697566}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697566}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697572}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697572}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697572}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697572}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697572}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697572}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697577}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697577}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697577}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697577}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697577}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697577}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697582}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697582}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697582}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697582}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697582}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697582}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697588}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697588}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697588}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697588}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697588}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697588}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697593}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697593}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697593}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697593}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697593}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697593}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697598}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697598}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697598}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697598}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697598}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697598}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697604}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697604}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697604}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697604}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697604}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697604}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697609}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697609}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697609}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697609}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697609}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697609}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697615}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697615}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697615}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697615}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697615}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697615}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697620}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697620}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697620}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697620}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697620}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697620}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697625}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697625}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697625}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697625}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697625}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697625}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697631}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697631}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697631}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697631}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697631}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697631}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697636}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697636}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697636}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697636}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697636}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697636}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697641}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697641}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697641}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697641}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697641}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697641}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697647}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697647}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697647}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697647}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697647}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697647}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697652}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697652}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697652}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697652}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697652}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697652}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697657}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697657}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697657}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697657}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697657}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697657}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697663}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697663}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697663}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697663}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697663}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697663}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697668}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697668}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697668}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697668}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697668}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697668}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697673}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697673}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697673}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697673}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697673}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697673}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697679}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697679}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697679}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697679}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697679}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697679}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697684}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697684}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697684}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697684}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697684}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697684}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697690}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697690}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697690}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697690}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697690}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697690}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697695}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697695}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697695}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697695}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697695}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697695}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697700}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697700}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697700}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697700}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697700}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697700}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697706}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697706}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697706}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697706}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697706}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697706}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697711}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697711}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697711}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697711}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697711}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697711}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697716}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697716}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697716}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697716}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697716}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697716}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697722}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697722}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697722}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697722}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697722}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697722}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697727}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697727}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697727}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697727}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697727}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697727}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697732}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697732}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697732}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697732}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697732}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697732}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697738}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697738}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697738}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697738}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697738}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697738}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697743}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697743}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697743}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697743}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697743}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697743}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697748}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697748}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697748}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697748}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697748}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697748}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697754}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697754}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697754}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697754}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697754}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697754}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697759}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697759}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697759}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697759}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697759}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697759}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697764}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697764}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697764}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697764}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697764}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697764}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697770}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697770}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697770}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697770}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697770}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697770}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697775}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697775}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697775}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697775}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697775}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697775}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697781}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697781}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697781}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697781}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697781}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697781}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697786}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697786}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697786}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697786}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697786}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697786}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697791}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697791}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697791}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697791}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697791}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697791}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697797}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697797}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697797}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697797}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697797}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697797}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697802}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697802}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697802}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697802}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697802}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697802}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697807}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697807}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697807}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677697807}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677697807}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697807}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697813}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697813}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697813}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697813}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697818}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697818}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697818}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697818}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697823}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697823}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697823}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697823}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697829}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697829}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677697829}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697829}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697834}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697834}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697834}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697839}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697839}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697839}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697844}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697844}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697844}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697850}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697850}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697850}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697855}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697855}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697855}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697860}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697860}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697860}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697866}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697866}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697866}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697871}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697871}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697871}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697876}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697876}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697876}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697882}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697882}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697882}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697887}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697887}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697887}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697892}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697892}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697892}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697897}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697897}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697897}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697903}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697903}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697903}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697908}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697908}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697908}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697913}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697913}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697913}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697919}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697919}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697919}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697924}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697924}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":4,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697924}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697929}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697929}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":4,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697929}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697935}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697935}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":4,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697935}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697940}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697940}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":4,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697940}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697945}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697945}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697945}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697950}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697950}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697950}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697956}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697956}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697956}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697961}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697961}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697961}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697966}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697966}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697966}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697972}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697972}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697972}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697977}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697977}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697977}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697982}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697982}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697982}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697988}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697988}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697988}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697993}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697993}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697993}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677697998}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677697998}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677697998}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698003}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698003}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698003}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698009}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698009}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698009}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698014}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698014}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698014}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698019}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698019}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698019}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698025}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698025}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698025}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698030}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698030}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698030}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698035}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698035}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698035}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698041}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698041}
+{"size":3,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698041}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698046}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698046}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698046}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698046}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698051}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698051}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698051}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698051}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698057}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698057}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698057}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698057}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698062}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698062}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698062}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698062}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698067}
+{"size":4,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698067}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698067}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":true,"ntr":"1216241","hops_from_ntr":0,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698067}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698073}
+{"size":4,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698073}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698073}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":true,"ntr":"1216241","hops_from_ntr":0,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698073}
+{"size":4,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698078}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698078}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698078}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":true,"ntr":"1216241","hops_from_ntr":0,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698078}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698083}
+{"size":4,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698083}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698083}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":true,"ntr":"1216241","hops_from_ntr":0,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698083}
+{"size":4,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698089}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698089}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698089}
+{"size":4,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":true,"ntr":"1216241","hops_from_ntr":0,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698089}
+{"size":4,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698094}
+{"size":4,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698094}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698094}
+{"size":4,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":true,"ntr":"1216241","hops_from_ntr":0,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698094}
+{"size":4,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698099}
+{"size":4,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698099}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698099}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":true,"ntr":"1216241","hops_from_ntr":0,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698099}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698105}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698105}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216241","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698105}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698105}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698105}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698110}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698110}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698110}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698110}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698110}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698115}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698115}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698115}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698115}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698115}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698121}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698121}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698121}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698121}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698121}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698126}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698126}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698126}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698126}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698126}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698131}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698131}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698131}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698131}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698131}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698131}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698137}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698137}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698137}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698137}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698137}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698137}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698142}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698142}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698142}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698142}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698142}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698142}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698147}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698147}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698147}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698147}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698147}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698147}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698153}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698153}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698153}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698153}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698153}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698153}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698158}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698158}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698158}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698158}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698158}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698158}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698163}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698163}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698163}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698163}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698163}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698163}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698169}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698169}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698169}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698169}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698169}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698169}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698174}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698174}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698174}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698174}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698174}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698174}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698179}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698179}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698179}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698179}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698179}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698179}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698185}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698185}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698185}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698185}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698185}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698185}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698190}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698190}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698190}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698190}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698190}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698190}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698195}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698195}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698195}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698195}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698195}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698195}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698201}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698201}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698201}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698201}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698201}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698201}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698206}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698206}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698206}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698206}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698206}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698206}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698212}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698212}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698212}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698212}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698212}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698212}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698217}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698217}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698217}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698217}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698217}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698217}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698222}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698222}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698222}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698222}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698222}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698222}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698228}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698228}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698228}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698228}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698228}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698228}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698233}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698233}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698233}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698233}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698233}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698233}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698238}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698238}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698238}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698238}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698238}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698238}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698244}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698244}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698244}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698244}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698244}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698244}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698249}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698249}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698249}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698249}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698249}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698249}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698254}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698254}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698254}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698254}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698254}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698254}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698260}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698260}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698260}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698260}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698260}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698260}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698265}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698265}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698265}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698265}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698265}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698265}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698270}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698270}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698270}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698270}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698270}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698270}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698276}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698276}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698276}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698276}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698276}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698276}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698281}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698281}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698281}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698281}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698281}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698281}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698287}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698287}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698287}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698287}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698287}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698287}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698292}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698292}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698292}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698292}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698292}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698292}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698297}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698297}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698297}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698297}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698297}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698297}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698303}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698303}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698303}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698303}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698303}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698303}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698308}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698308}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698308}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698308}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698308}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698308}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698313}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698313}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698313}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698313}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698313}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698319}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698319}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698319}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698319}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698319}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698324}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698324}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698324}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698324}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698324}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698329}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698329}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698329}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698329}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698329}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698335}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698335}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698335}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698335}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698335}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698340}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698340}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698340}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698340}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698340}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698345}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698345}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698345}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698345}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698345}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698351}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698351}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698351}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698351}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698351}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698356}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698356}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698356}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698356}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698356}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698361}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698361}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698361}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698361}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698361}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698367}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698367}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698367}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698367}
+{"size":5,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698367}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698372}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698372}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698372}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698372}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698372}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698372}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698377}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698377}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698377}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698377}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698377}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698377}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698383}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698383}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698383}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698383}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698383}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698383}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698388}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698388}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698388}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698388}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698388}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698388}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698393}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698393}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698393}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698393}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698393}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698393}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698399}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698399}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698399}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698399}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698399}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698399}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698404}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698404}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698404}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698404}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698404}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698404}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698410}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698410}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698410}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698410}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698410}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698410}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698415}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698415}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698415}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698415}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698415}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698415}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698420}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698420}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698420}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698420}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698420}
+{"size":6,"quality_from_ntr":5,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":4,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698420}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698426}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698426}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698426}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698426}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698426}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698426}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698431}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698431}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698431}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698431}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698431}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698431}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698436}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698436}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698436}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698436}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698436}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698442}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698442}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698442}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698442}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698442}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698447}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698447}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698447}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698447}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":4,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698447}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698452}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698452}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698452}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698452}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698452}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698452}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698458}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698458}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698458}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698458}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698458}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698458}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698463}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698463}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698463}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698463}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698463}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698463}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698468}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698468}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698468}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698468}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698468}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698468}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698474}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698474}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698474}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698474}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698474}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698474}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698479}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698479}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698479}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698479}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698479}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698479}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698484}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698484}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":2,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1215817","src_ip":" 16.12.158.17","respTime":1677698484}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698484}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698484}
+{"size":6,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698484}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698490}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698490}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698490}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":3,"command":true,"ntr":"1216233","hops_from_ntr":0,"src_unit_id":"1216233","src_ip":" 16.12.162.33","respTime":1677698490}
+{"size":5,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698490}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698495}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698495}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698495}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698495}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698500}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698500}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698500}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698500}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698506}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698506}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698506}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698506}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698511}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698511}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698511}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698511}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698516}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":3,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698516}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698516}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698516}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"1216233","hops_from_ntr":2,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698522}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698522}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698522}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698522}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698527}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698527}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698527}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698527}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698532}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698532}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698532}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698532}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"121581","src_ip":" 16.12.158.1","respTime":1677698538}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":0,"src_unit_id":"121589","src_ip":" 16.12.158.9","respTime":1677698538}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":1,"command":true,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216225","src_ip":" 16.12.162.25","respTime":1677698538}
+{"size":4,"quality_from_ntr":7,"jammed":false,"one_hop_neighbors":0,"command":false,"ntr":"121589","hops_from_ntr":1,"src_unit_id":"1216241","src_ip":"16.12.162.41","respTime":1677698538}
